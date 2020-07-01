@@ -1,0 +1,19 @@
+#Thats a plain text with links for all the resources installed to the Gta V Server.
+#This is created in case any mod needs fix , to be able to know who the original creator is 
+
+
+
+#Jobs
+
+
+#Donate Jobs
+
+
+#Transports
+
+
+#Dev tools 
+
+
+#Other stuff
+

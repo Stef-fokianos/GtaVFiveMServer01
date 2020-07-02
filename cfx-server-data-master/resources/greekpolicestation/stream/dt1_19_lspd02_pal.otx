@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dt1_19_lspd02_pal.dds
+	Type Regular
+	PixelFormat A8R8G8B8
+	Levels 1
+	Usage TINTPALETTE
+	UsageFlags -
+	ExtraFlags 0
+}

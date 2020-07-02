@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image vb04_policelogos2_dvb04_policelogos2_a.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 8
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

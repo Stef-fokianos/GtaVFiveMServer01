@@ -1,0 +1,264 @@
+Version 165 32
+{
+	Shaders
+	{
+		normal_spec_pxm.sps
+		{
+			DiffuseSampler hw_1_9_ja_rn_policewall2
+			HeightSampler hei_dt1_19_lspd02\hw_1_9_ja_rn_policewall2_h.otx
+			BumpSampler hw_1_9_ja_rn_policewall2_n
+			SpecSampler hw_1_9_ja_rn_policewall2_s
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			ParallaxSelfShadowAmount 0.95000000
+			HeightBias 0.01500000
+			HeightScale 0.03000000
+			Bumpiness 0.42000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 0.94000000
+			SpecularFalloffMult 180.00000000
+			SpecularFresnel 0.79000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler ja_rn_hw1_02_wall_1
+			BumpSampler ja_rn_hw1_02_wall_1_n
+			SpecSampler ja_rn_hw1_02_wall_1_s
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 0.50000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 0.12500000
+			SpecularFalloffMult 100.00000000
+			SpecularFresnel 0.75000000
+		}
+		glass_pv_env.sps
+		{
+			DiffuseSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_windowalphadt1_19_rsn_cmk_windowalpha_a.otx
+			DecalTint 1.00000000 1.00000000 1.00000000 1.00000000
+			BrokenSpecularColor 0.46000000 0.61176500 0.61176500 1.00000000
+			BrokenDiffuseColor 0.46000000 0.61176500 0.61176500 0.56862700
+			UseTessellation 0.00000000
+			SpecularIntensityMult 0.50000000
+			SpecularFalloffMult 256.00000000
+			SpecularFresnel 0.97000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_wall01.otx
+			BumpSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_wall01_n.otx
+			SpecSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_wall01_s.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 0.70000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 100.00000000
+			SpecularFresnel 0.92000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler IM_FloorTiles21
+			BumpSampler IM_FloorTiles21_N
+			SpecSampler IM_FloorTiles21_S
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 14.00000000
+			SpecularFresnel 0.90000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler OS_MLZY_bridgeedge_0001
+			BumpSampler OS_MLZY_bridgeedge_0001_N
+			SpecSampler OS_MLZY_bridgeedge_0001
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 5.00000000
+			SpecularFresnel 0.97000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler HW_RNCM_ConcBase_001
+			BumpSampler hei_dt1_19_lspd02\hw_rncm_concbase_001_n.otx
+			SpecSampler hei_dt1_19_lspd02\hw_rncm_concbase_001_s.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 0.12500000
+			SpecularFalloffMult 100.00000000
+			SpecularFresnel 0.97000000
+		}
+		spec.sps
+		{
+			DiffuseSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_tp007.otx
+			SpecSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_tp007_s.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 250.00000000
+			SpecularFresnel 0.95000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler IM_metal19_black
+			BumpSampler IM_metal19_N
+			SpecSampler IM_metal19_S
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 50.00000000
+			SpecularFresnel 0.75000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler hei_dt1_19_lspd02\dh_ch02_wood07.otx
+			BumpSampler hei_dt1_19_lspd02\dh_ch02_wood07_n.otx
+			SpecSampler hei_dt1_19_lspd02\dh_ch02_wood07_s.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 100.00000000
+			SpecularFresnel 0.97000000
+		}
+		normal_spec_detail.sps
+		{
+			DiffuseSampler IM_Roof04
+			DetailSampler ENV_NOISE_CONCRETE
+			BumpSampler hei_dt1_19_lspd02\im_roof4_n.otx
+			SpecSampler hei_dt1_19_lspd02\im_roof04_s.otx
+			DetailSettings 0.70000000 0.10000000 12.00000000 12.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 15.00000000
+			SpecularFresnel 0.96000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler IM_Wall12
+			BumpSampler hei_dt1_19_lspd02\im_wall12_n.otx
+			SpecSampler hei_dt1_19_lspd02\im_wall12_s.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 0.12500000
+			SpecularFalloffMult 100.00000000
+			SpecularFresnel 0.75000000
+		}
+		spec_tnt.sps
+		{
+			DiffuseSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_walltint01.otx
+			TintPaletteSampler hei_dt1_19_lspd02\dt1_19_lspd02_pal.otx
+			SpecSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_walltint01_s.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			SpecMapIntMask 1.00000000 1.00000000 1.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 85.00000000
+			SpecularFresnel 0.95000000
+			TintPaletteSelector 0.00000000 0.00000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler hei_dt1_19_lspd02\im_roof16.otx
+			BumpSampler hei_dt1_19_lspd02\im_roof16_n.otx
+			SpecSampler hei_dt1_19_lspd02\im_roof16_s.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 30.00000000
+			SpecularFresnel 0.85000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler DT1_19_RSN_CMK_TP005
+			BumpSampler DT1_19_RSN_CMK_TP005_n
+			SpecSampler DT1_19_RSN_CMK_TP005
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 0.12500000
+			SpecularFalloffMult 100.00000000
+			SpecularFresnel 0.75000000
+		}
+		emissive.sps
+		{
+			DiffuseSampler DT1_19_RSN_CMK_Emissive
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			EmissiveMultiplier 1.70000000
+		}
+		default.sps
+		{
+			DiffuseSampler DT1_19_RSN_CMK_Sign
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+		}
+		normal_spec.sps
+		{
+			DiffuseSampler DT1_19_RSN_CMK_TP003
+			BumpSampler DT1_19_RSN_CMK_TP003_n
+			SpecSampler dt1_19_rsn_cmk_tp003_S
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			Bumpiness 1.00000000
+			SpecMapIntMask 1.00000000 0.00000000 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 20.00000000
+			SpecularFresnel 0.85000000
+		}
+		default_tnt.sps
+		{
+			DiffuseSampler hei_dt1_19_lspd02\dt1_19_rsn_cmk_walltint01.otx
+			TintPaletteSampler hei_dt1_19_lspd02\dt1_19_lspd02_pal.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			TintPaletteSelector 0.00000000 0.00000000
+		}
+		decal_tnt.sps
+		{
+			DiffuseSampler hei_dt1_19_lspd02\vb04_policelogos2_dvb04_policelogos2_a.otx
+			TintPaletteSampler hei_dt1_19_lspd02\dt1_19_lspd02_pal.otx
+			UseTessellation 0.00000000
+			SpecularIntensityMult 1.00000000
+			SpecularFalloffMult 130.00000000
+			SpecularFresnel 0.97000000
+			TintPaletteSelector 0.00000000 0.00000000
+		}
+	}
+	Skeleton null
+	LodGroup
+	{
+		Center 0.05241400 -0.61630200 -0.55100100
+		Radius 45.42307000
+		AABBMin -32.59900000 -30.51709000 -10.70401000
+		AABBMax 32.70383000 29.28449000 9.60201200
+		High 9998.00000000
+		{
+			hei_dt1_19_lspd02\hei_dt1_19_lspd02_high.mesh 0
+		}
+		Med 9998.00000000
+		Low 9998.00000000
+		Vlow 9998.00000000
+	}
+	Joints null
+	Light null
+	Bound null
+}

@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dt1_19_rsn_cmk_windowalphadt1_19_rsn_cmk_windowalpha_a.dds
+	Type Regular
+	PixelFormat DXT5
+	Levels 7
+	Usage DIFFUSE
+	UsageFlags -
+	ExtraFlags 0
+}

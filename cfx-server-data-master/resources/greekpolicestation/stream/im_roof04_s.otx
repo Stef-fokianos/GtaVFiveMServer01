@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image im_roof04_s.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage SPECULAR
+	UsageFlags -
+	ExtraFlags 0
+}

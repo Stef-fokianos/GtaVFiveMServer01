@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dh_ch02_wood07_s.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 7
+	Usage SPECULAR
+	UsageFlags -
+	ExtraFlags 0
+}

@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image dt1_19_rsn_cmk_walltint01_s.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 6
+	Usage SPECULAR
+	UsageFlags -
+	ExtraFlags 0
+}

@@ -1,0 +1,10 @@
+Version 13 30
+{
+	Image hw_1_9_ja_rn_policewall2_h.dds
+	Type Regular
+	PixelFormat DXT1
+	Levels 8
+	Usage UNKNOWN
+	UsageFlags -
+	ExtraFlags 0
+}

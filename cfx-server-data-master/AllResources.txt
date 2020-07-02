@@ -20,6 +20,8 @@
         https://www.gta5-mods.com/vehicles/peugeot-206-addon-dirt-map-extra
     Dogde Charger (69charger)
         https://www.gta5-mods.com/vehicles/1969-dodge-charger-r-t-add-on-replace-tuning-hq
+    Toyota Supra (a80)
+        https://el.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning
 #Dev tools 
     vMenu v3.2.1 
         https://github.com/TomGrobbe/vMenu/releases

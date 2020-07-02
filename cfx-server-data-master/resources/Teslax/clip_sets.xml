@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fwClipSetManager>
+  <clipSets>
+    <Item type="fwClipSet" key="clipset@veh@low@le7b@front_ds@enter_exit">
+      <fallbackId>clipset@veh@low@prototipo@front_ds@enter_exit</fallbackId>
+      <clipDictionaryName>anim@veh@low@gullwing@front_ds@enter_exit</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="d_close_in" />
+        <Item type="fwClipItem" key="d_close_out" />
+        <Item type="fwClipItem" key="d_close_out_no_door" />
+        <Item type="fwClipItem" key="get_out" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="clipset@veh@low@le7b@front_ps@enter_exit">
+      <fallbackId>clipset@veh@low@prototipo@front_ps@enter_exit</fallbackId>
+      <clipDictionaryName>anim@veh@low@gullwing@front_ps@enter_exit</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="d_close_in" />
+        <Item type="fwClipItem" key="d_close_out" />
+        <Item type="fwClipItem" key="d_close_out_no_door" />
+        <Item type="fwClipItem" key="get_out" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+	<Item type="fwClipSet" key="SwitchVisorOnFoot">
+      <fallbackId />
+      <clipDictionaryName>ANIM@MP_HELMETS@ON_FOOT</clipDictionaryName>
+      <clipItems>
+		<Item type="fwClipItemWithProps" key="POV_VISOR_DOWN">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask>BONEMASK_ARMONLY_L</boneMask>
+        </Item>
+		<Item type="fwClipItemWithProps" key="POV_VISOR_UP">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask>BONEMASK_ARMONLY_L</boneMask>
+        </Item>
+        <Item type="fwClipItemWithProps" key="VISOR_DOWN">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask>BONEMASK_HEAD_NECK_AND_L_ARM</boneMask>
+        </Item>
+		<Item type="fwClipItemWithProps" key="VISOR_UP">
+          <flags>APF_ISBLENDAUTOREMOVE</flags>
+          <priority>AP_MEDIUM</priority>
+          <boneMask>BONEMASK_HEAD_NECK_AND_L_ARM</boneMask>
+        </Item>
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+  </clipSets>
+  <clipDictionaryMetadatas>
+	<Item key="ANIM@MP_HELMETS@ON_FOOT">
+      <streamingPolicy>SP_STREAMING</streamingPolicy>
+      <memoryGroup>MG_PlayerMovement</memoryGroup>
+      <streamingPriority>SP_Low</streamingPriority>
+    </Item>
+  </clipDictionaryMetadatas>
+</fwClipSetManager>

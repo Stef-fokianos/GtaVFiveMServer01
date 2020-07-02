@@ -22,6 +22,11 @@
         https://www.gta5-mods.com/vehicles/1969-dodge-charger-r-t-add-on-replace-tuning-hq
     Toyota Supra (a80)
         https://el.gta5-mods.com/vehicles/toyota-supra-add-on-stock-more-tuning
+    Nissan Quashqai 16 (quashqai16)
+        https://www.gta5-mods.com/vehicles/2016-nissan-qashqai-add-on-hq
+    Ford mustang 19 (mustang19)
+        https://www.gta5-mods.com/vehicles/2019-ford-mustang-gt-bullitt-rtr-5-rims
+
 #Dev tools 
     vMenu v3.2.1 
         https://github.com/TomGrobbe/vMenu/releases

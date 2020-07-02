@@ -14,7 +14,12 @@
         https://www.gta5-mods.com/vehicles/lamborghini-terzo-millennio-2017-addon-fivem
     S2000 (ap2)
         https://el.gta5-mods.com/vehicles/honda-s2000-tunable
-
+    Corvette ZR1 (czr1)
+        https://www.gta5-mods.com/vehicles/chevrolet-corvette-zr1-2009-add-on-extras-livery-dirtmap-template
+    Peugeot 206 (206c)
+        https://www.gta5-mods.com/vehicles/peugeot-206-addon-dirt-map-extra
+    Dogde Charger (69charger)
+        https://www.gta5-mods.com/vehicles/1969-dodge-charger-r-t-add-on-replace-tuning-hq
 #Dev tools 
     vMenu v3.2.1 
         https://github.com/TomGrobbe/vMenu/releases

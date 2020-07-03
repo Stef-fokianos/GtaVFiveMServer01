@@ -28,8 +28,12 @@
         https://www.gta5-mods.com/vehicles/2019-ford-mustang-gt-bullitt-rtr-5-rims
     rx7 (rx7tunable)
         https://el.gta5-mods.com/vehicles/mazda-rx7-fd3s-add-on-tunable
-    Tesla model X (TeslaX)
+    Tesla model X (Teslax)
         https://el.gta5-mods.com/vehicles/tesla-model-x-p90d
+    Nissan frontier-Navara (frontier , seminole)
+        https://el.gta5-mods.com/vehicles/nissan-frontier-pro-4x-2014
+    Toyota Hilux (hilux , rancherxlb)
+        https://el.gta5-mods.com/vehicles/toyota-hilux-revo-2017-v7
 
 #Dev tools 
     vMenu v3.2.1 

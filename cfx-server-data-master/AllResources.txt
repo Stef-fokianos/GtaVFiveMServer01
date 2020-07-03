@@ -34,7 +34,16 @@
         https://el.gta5-mods.com/vehicles/nissan-frontier-pro-4x-2014
     Toyota Hilux (hilux , rancherxlb)
         https://el.gta5-mods.com/vehicles/toyota-hilux-revo-2017-v7
-
+    Nissan Skyline r32 (r32)
+        https://el.gta5-mods.com/vehicles/nissan-skyline-gt-r-bnr32
+    Nissan Skyline r34 (skyline)
+        https://el.gta5-mods.com/vehicles/nissan-skyline-gt-r-bnr34-yca-y97y
+    Ford Ranger (2016ranger)
+        https://el.gta5-mods.com/vehicles/2016-ford-ranger-add-on-replace-trailer
+    Evo ix (evo9)
+        https://el.gta5-mods.com/vehicles/mitsubishi-lancer-evolution-ix-mr-add-on
+    Sylvia s15
+        https://el.gta5-mods.com/vehicles/2002-nissan-silvia-s15-add-on
 #Dev tools 
     vMenu v3.2.1 
         https://github.com/TomGrobbe/vMenu/releases

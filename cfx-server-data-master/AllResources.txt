@@ -42,8 +42,12 @@
         https://el.gta5-mods.com/vehicles/2016-ford-ranger-add-on-replace-trailer
     Evo ix (evo9)
         https://el.gta5-mods.com/vehicles/mitsubishi-lancer-evolution-ix-mr-add-on
-    Sylvia s15
+    Sylvia s15 (s15)
         https://el.gta5-mods.com/vehicles/2002-nissan-silvia-s15-add-on
+    Subaru WRX (subwrx)
+        https://el.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning
+
+
 #Dev tools 
     vMenu v3.2.1 
         https://github.com/TomGrobbe/vMenu/releases

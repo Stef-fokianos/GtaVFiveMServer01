@@ -52,20 +52,36 @@
         https://el.gta5-mods.com/vehicles/180sx-type-x-tunable
     Rx7 99 (mfc)
         https://el.gta5-mods.com/vehicles/mazda-rx-7-fc3s-cereal
-    BMW F82 M4
+    BMW F82 M4 (m)
         https://el.gta5-mods.com/vehicles/2015-bmw-f82-m4-fully-tunable
-    Lamborghini Aventador LP700-4
+    Lamborghini Aventador LP700-4 (LP700)
         https://el.gta5-mods.com/vehicles/2016-lamborghini-aventador-lp750-4-superveioce-roadster-se7enmoon/download/22143
-    Nissan GTR
+    Nissan GTR (gtr)
         https://el.gta5-mods.com/vehicles/2015-nissan-gtr-nismo-yca-y97y/download/31526
     Mercedes G65 (g65amg)
         https://el.gta5-mods.com/vehicles/mercedes-benz-g63-amg
     Honda Civic (fk8)
         https://el.gta5-mods.com/vehicles/2018-honda-civic-type-r-fk8/download/76746
-    Camaro ss 
+    Camaro ss (16ss)
         https://el.gta5-mods.com/vehicles/16-cheverolet-camaro-ss-extreme-tuning-hq
     Challenger rt 16 
         https://el.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq/download/17514
+    mitsubishi fto (fto)
+        https://el.gta5-mods.com/vehicles/mitsubishi-fto-gp-version-r-add-on-lods-tuning-template/download/79936
+    mitsubishi eclipse (eclipsegt06)
+        https://el.gta5-mods.com/vehicles/eclipse-gt-tunable-stock-add-on/download/79231
+    mr2 (mr2zzw30)
+        https://el.gta5-mods.com/vehicles/toyota-mr-s-tunable-add-on-animated-roof-lods-template/download/89491
+    mustang hatchback (66fastback)
+         https://el.gta5-mods.com/vehicles/1966-ford-mustang-fastback-2-2-template-owners_manual/download/67073
+    lancia delta (lanciad)
+        https://el.gta5-mods.com/vehicles/lancia-delta-integral-evo1/download/57064
+
+
+
+
+
+
 #Bikes
    Africat Twin (africat)
         https://el.gta5-mods.com/vehicles/2018-honda-crf1000l-africa-twin

@@ -64,7 +64,7 @@
         https://el.gta5-mods.com/vehicles/2018-honda-civic-type-r-fk8/download/76746
     Camaro ss (16ss)
         https://el.gta5-mods.com/vehicles/16-cheverolet-camaro-ss-extreme-tuning-hq
-    Challenger rt 16 
+    Challenger rt 16 (16charger)
         https://el.gta5-mods.com/vehicles/2016-dodge-charger-sxt-r-t-srt-392-hellcat-add-on-replace-hq/download/17514
     mitsubishi fto (fto)
         https://el.gta5-mods.com/vehicles/mitsubishi-fto-gp-version-r-add-on-lods-tuning-template/download/79936
@@ -76,7 +76,8 @@
          https://el.gta5-mods.com/vehicles/1966-ford-mustang-fastback-2-2-template-owners_manual/download/67073
     lancia delta (lanciad)
         https://el.gta5-mods.com/vehicles/lancia-delta-integral-evo1/download/57064
-
+    renault clio (ren_clio_5)
+        https://el.gta5-mods.com/vehicles/renault-clio-5-intense-2020-addon-v-final
 
 
 

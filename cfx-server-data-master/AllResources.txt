@@ -70,14 +70,18 @@
         https://el.gta5-mods.com/vehicles/mitsubishi-fto-gp-version-r-add-on-lods-tuning-template/download/79936
     mitsubishi eclipse (eclipsegt06)
         https://el.gta5-mods.com/vehicles/eclipse-gt-tunable-stock-add-on/download/79231
-    mr2 (mr2zzw30)
-        https://el.gta5-mods.com/vehicles/toyota-mr-s-tunable-add-on-animated-roof-lods-template/download/89491
     mustang hatchback (66fastback)
          https://el.gta5-mods.com/vehicles/1966-ford-mustang-fastback-2-2-template-owners_manual/download/67073
     lancia delta (lanciad)
         https://el.gta5-mods.com/vehicles/lancia-delta-integral-evo1/download/57064
     renault clio (ren_clio_5)
         https://el.gta5-mods.com/vehicles/renault-clio-5-intense-2020-addon-v-final
+    
+
+
+    #police
+
+    evo 9 police (police3)
 
 
 

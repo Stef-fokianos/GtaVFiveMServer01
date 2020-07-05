@@ -76,7 +76,7 @@
         https://el.gta5-mods.com/vehicles/lancia-delta-integral-evo1/download/57064
     renault clio (ren_clio_5)
         https://el.gta5-mods.com/vehicles/renault-clio-5-intense-2020-addon-v-final
-    
+    Lykan Hypersport (lykan)
 
 
     #police

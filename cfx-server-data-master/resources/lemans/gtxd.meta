@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapParentTxds>
+ <txdRelationships>
+  <item>
+      <parent>lemans_textures0</parent>
+      <child>lemans_textures</child>
+    </item>
+    <item>
+      <parent>lemans_textures1</parent>
+      <child>lemans_textures0</child>
+    </item>
+    <item>
+      <parent>lemans_textures2</parent>
+      <child>lemans_textures1</child>
+    </item>
+ </txdRelationships>
+</CMapParentTxds>

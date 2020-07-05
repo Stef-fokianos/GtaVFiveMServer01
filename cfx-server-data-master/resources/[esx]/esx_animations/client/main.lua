@@ -1,6 +1,6 @@
 local isDead = false
 local inAnim = false
-ESX = nil
+ESX = nil 
 
 Citizen.CreateThread(function()
 	while ESX == nil do

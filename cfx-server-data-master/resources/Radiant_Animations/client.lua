@@ -76,7 +76,7 @@
 
 local radioActive 				= false
 local radioButton				= 137 --- CAPS 
-local handsUpButton				= 73 --- X 
+local handsUpButton				= 323 --- X
 
 --- Function for radio chatter function
 Citizen.CreateThread( function()

@@ -98,7 +98,7 @@ Citizen.CreateThread(function()
 			OpenAnimationsMenu()
 		end
 
-		if IsControlJustReleased(0, 73) and IsInputDisabled(0) and not isDead then
+		if IsControlJustReleased(0, 84) and IsInputDisabled(0) and not isDead then
 			ClearPedTasks(PlayerPedId())
 		end
 

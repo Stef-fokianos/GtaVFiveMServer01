@@ -258,7 +258,7 @@ function spawnPlayer(spawnIdx, cb)
             end
 
             -- change the player model
-            SetPlayerModel(PlayerId(), spawn.model)
+           -- SetPlayerModel(PlayerId(), spawn.model)
 
             -- release the player model
             SetModelAsNoLongerNeeded(spawn.model)

@@ -1,0 +1,37 @@
+*, *::after, *::before {
+	-webkit-user-select: none;
+	-webkit-user-drag: none;
+	-webkit-app-region: no-drag;
+	cursor: default;
+}
+
+#wrap {
+	display: none;
+	font-family: 'Segoe UI';
+	overflow: auto;
+	width: 40%;
+	height: 40vw;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(46, 46, 46, 0.85);
+	color: rgba(255, 255, 255, 0.9);
+	border-radius: 2px;
+	margin-top: 2%;
+}
+
+.header {
+	background-color: #1C1C1C;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	text-align: center;
+}
+
+.header a {
+	padding: 3%;
+}
+
+.playerlist {
+	width: 100%;
+	text-align: center;
+	color: white;
+}

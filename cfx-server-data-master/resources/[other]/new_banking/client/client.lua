@@ -158,21 +158,21 @@ Citizen.CreateThread(function()
 	end
 end)
 
-Citizen.CreateThread(function()
-	if showblips then
-	  for k,v in ipairs(atms)do
-		local blip = AddBlipForCoord(v.x, v.y, v.z)
-		SetBlipSprite(blip, v.id)
-		SetBlipDisplay(blip, 4)
-		SetBlipScale  (blip, 0.9)
-		SetBlipColour (blip, 2)
-		SetBlipAsShortRange(blip, true)
-		BeginTextCommandSetBlipName("STRING")
-		AddTextComponentString(tostring(v.name))
-		EndTextCommandSetBlipName(blip)
-	  end
-	end
-end)
+--Citizen.CreateThread(function()
+--	if showblips then
+--	  for k,v in ipairs(atms)do
+--		local blip = AddBlipForCoord(v.x, v.y, v.z)
+--		SetBlipSprite(blip, v.id)
+--		SetBlipDisplay(blip, 4)
+--		SetBlipScale  (blip, 0.9)
+--		SetBlipColour (blip, 2)
+--		SetBlipAsShortRange(blip, true)
+--		BeginTextCommandSetBlipName("STRING")
+--		AddTextComponentString(tostring(v.name))
+--		EndTextCommandSetBlipName(blip)
+--	  end
+--	end
+--end)
 
 
 --===============================================

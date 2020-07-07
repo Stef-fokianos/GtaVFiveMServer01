@@ -1,24 +1,24 @@
 var tableauQuestion = [
 	{
-		question: "Si vous conduisez à 80km/h, que vous approchez d'un lieu de résidence, cela veut dire que :",
-		propositionA: "Vous devez accélérer",
-		propositionB: "Vous pouvez garder votre vitesse, si vous ne croisez pas d'autres véhicules",
-		propositionC: "Vous devez ralentir",
-		propositionD: "Vous pouvez garder votre vitesse",
+		question: "Εάν οδηγείτε με ταχύτητα 80km / h, πλησιάζοντας σε μια κατοικημένη περιοχή, αυτό σημαίνει ότι:",
+		propositionA: "Πρέπει να επιταχύνεται",
+		propositionB: "Μπορείτε να διατηρήσετε την ταχύτητά σας, εάν δεν διέρχονται άλλα οχήματα",
+		propositionC: "Πρέπει να επιβραδύνετε",
+		propositionD: "Μπορείτε να διατηρήσετε την ταχύτητά σας",
 		reponse: "C"
 	},
 
 	{
-		question: "Vous vous apprétez à tourner à droite au feu vert, mais vous voyez un piéton qui traverse :",
-		propositionA: "Vous passez avant le piéton",
-		propositionB: "Vous vérifiez qu'il n'y a pas d'autre véhicule et vous passez",
-		propositionC: "Vous attendez que le piéton est terminé",
-		propositionD: "Vous shoutez le piéton pour passer",
+		question: "Πρόκειται να στρίψετε δεξιά στο πράσινο φανάρι, αλλά βλέπετε μια διάβαση πεζών :",
+		propositionA: "Περνάτε πάνω απο τον πεζό",
+		propositionB: "Ελέγχετε ότι δεν υπάρχει άλλο όχημα και περνάτε",
+		propositionC: "Περιμένετε μέχρι να περάσει ο πεζός",
+		propositionD: "Σκοτώνεται τον πεζό για να περάσετε",
 		reponse: "C"
 	},
 
 	{
-		question: "Sans aucune indication : La vitesse dans une zone résidentielle est de : __ km/h",
+		question: "Χωρίς καμία ένδειξη: Η ταχύτητα σε μια κατοικημένη περιοχή είναι: __ km / h",
 		propositionA: "50",
 		propositionB: "55",
 		propositionC: "65",
@@ -27,16 +27,16 @@ var tableauQuestion = [
 	},
 
 	{
-		question: "Avant chaque changement de file vous devez :",
-		propositionA: "Vérifiez vos rétroviseurs",
-		propositionB: "Vérifiez vos angles morts",
-		propositionC: "Signalez vos intentions",
-		propositionD: "Tout cela",
+		question: "Πριν από κάθε αλλαγή λωρίδας πρέπει να:",
+		propositionA: "Ελέγχεται τους καθρέφτες σας",
+		propositionB: "Ελέγχεται την νεκρή γωνία",
+		propositionC: "Ανοίξεται το φλάς",
+		propositionD: "Όλα τα παραπάνω",
 		reponse: "D"
 	},
 
 	{
-		question: "What blood alcohol level is classified as driving while intoxicated?",
+		question: "Ποιό είναι το επιτρεπτώ όριο αλκόολ στο αίμα;",
 		propositionA: "0.05%",
 		propositionB: "0.18%",
 		propositionC: "0.08%",
@@ -45,34 +45,34 @@ var tableauQuestion = [
 	},
 
 	{
-		question: "A quel moment vous pouvez passer aux feux ?",
-		propositionA: "Quand il est vert",
-		propositionB: "Quand il n'y a personne sur l'intersection",
-		propositionC: "Vous êtes dans une zone d'école",
-		propositionD: "Quand il est vert et/ou rouge et que je tourne à droite",
+		question: "Πότε μπορείται να περάσεται απο ένα φανάρι;",
+		propositionA: "Όταν είναι κόκκινο",
+		propositionB: "Όταν δεν υπάρχει κανείς στη διασταύρωση",
+		propositionC: "Όταν περνάνε άλλα αμάξια",
+		propositionD: "Όταν είναι πράσινο",
 		reponse: "D"
 	},
 
 	{
-		question: "Un piéton est au feu rouge pour les piétons",
-		propositionA: "Vous le laissez passer",
-		propositionB: "Vous observez avant de continuer",
-		propositionC: "Vous lui faite un signe de la main",
-		propositionD: "Vous continuez votre chemin car votre feu est vert",
+		question: "Ένας πεζός βρίσκεται στην διάβαση αλλά το φανάρι του είναι κόκκινο τι κάνεις;",
+		propositionA: "Τον αφήνεις να περάσει",
+		propositionB: "Παρατηρείτε πριν συνεχίσετε",
+		propositionC: "Του κάνετε νόημα με το χέρι σας",
+		propositionD: "Συνεχίζετε γιατί το φανάρι σας είναι πράσινο",
 		reponse: "D"
 	},
 
 	{
-		question: "Qu'est ce qui est permit quand vous dépassez un autre véhicule",
-		propositionA: "Le suivre de près pour le doubler plus vite",
-		propositionB: "Le doubler en quittant la route",
-		propositionC: "Conduire sur la route opposé pour le dépasser",
-		propositionD: "Dépasser la vitesse limite",
+		question: "Τι επιτρέπεται όταν προσπερνάτε άλλο όχημα",
+		propositionA: "Ακολουθήστε το προσεκτικά και προσπεράστε το γρήγορα",
+		propositionB: "Το περνάτε χωρίς να βγείτε από την λωρίδα σας",
+		propositionC: "Οδηγήστε στην αντίθετη λωρίδα  για να το προσπεράσετε",
+		propositionD: "Να υπερβείτε το όριο ταχύτητας",
 		reponse: "C"
 	},
 
 	{
-		question: "Vous conduisez sur une rocade qui indique une vitesse maximum de 110 km/h. La plupart du traffic roule à 120 km/h, alors vous ne devriez pas conduire plus vite que :",
+		question: "Οδηγείτε σε περιφερειακό δρόμο που υποδεικνύει μέγιστη ταχύτητα 110 km / h. Οι περισσότεροι οδηγοί ταξιδεύουν στα 120 km / h, οπότε δεν πρέπει να οδηγείτε γρηγορότερα απο:",
 		propositionA: "80 kmh",
 		propositionB: "40 kmh",
 		propositionC: "50 kmh",
@@ -81,11 +81,11 @@ var tableauQuestion = [
 	},
 
 	{
-		question: "Quand vous êtes dépassé par un autre véhicule il est important de ne PAS :",
-		propositionA: "Ralentir",
-		propositionB: "Vérifiez vos rétroviseurs",
-		propositionC: "Regarder les autres conducteurs",
-		propositionD: "Augmenter votre vitesse",
+		question: "Όταν σας προσπερνάει άλλο όχημα, είναι σημαντικό να μην:",
+		propositionA: "Κόψετε ταχύτητα",
+		propositionB: "Ελέγξετε τους καθρέφτες σας",
+		propositionC: "Παρακολουθήσετε προσεκτικά το όχημα που σας προσπερνάει",
+		propositionD: "Αυξήσετε την ταχύτητά σας",
 		reponse: "D"
 	},
 ]

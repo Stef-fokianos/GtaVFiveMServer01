@@ -282,7 +282,7 @@ function RemoveItemsAfterRPDeath()
 	TriggerServerEvent('esx_ambulancejob:setDeathStatus', false)
 
 	Citizen.CreateThread(function()
-		DoScreenFadeOut(800)
+		DoScreenFadeOut(12000)
 
 		while not IsScreenFadedOut() do
 			Citizen.Wait(10)
@@ -298,7 +298,7 @@ function RemoveItemsAfterRPDeath()
 			ESX.SetPlayerData('loadout', {})
 			RespawnPed(PlayerPedId(), formattedCoords, Config.RespawnPoint.heading)
 
-			StopScreenEffect('DeathFailOut')
+			--StopScreenEffect('DeathFailOut')
 			DoScreenFadeIn(800)
 		end)
 	end)

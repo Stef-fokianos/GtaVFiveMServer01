@@ -213,7 +213,7 @@ AddEventHandler('esx_ambulancejob:notif', function()
 		Nombreinter = 0
 	end
 	ReaFaite = true
-	ESX.ShowAdvancedNotification('EMS INFO', 'EMS CENTRAL', 'Resuscitation done. \n~g~$150~w~ Added to the company safe.\n~g~'..Nombreinter..' intervention in progress.', 'CHAR_MP_MORS_MUTUAL', 3)
+	ESX.ShowAdvancedNotification('EMS INFO', 'EMS CENTRAL', 'Resuscitation done. \n~g~$800~w~ Added to the company safe.\n~g~'..Nombreinter..' intervention in progress.', 'CHAR_MP_MORS_MUTUAL', 3)
 end)
 
 function DrawGenericTextThisFrame()
@@ -494,6 +494,7 @@ AddEventHandler('esx_ambulancejob:revive', function()
 			x = ESX.Math.Round(coords.x, 1),
 			y = ESX.Math.Round(coords.y, 1),
 			z = ESX.Math.Round(coords.z, 1)
+
 		}
 
 		ESX.SetPlayerData('lastPosition', formattedCoords)
@@ -528,6 +529,7 @@ AddEventHandler('esx_ambulancejob:revive2', function()
 			x = ESX.Math.Round(coords.x, 1),
 			y = ESX.Math.Round(coords.y, 1),
 			z = ESX.Math.Round(coords.z, 1)
+
 		}
 
 		ESX.SetPlayerData('lastPosition', formattedCoords)

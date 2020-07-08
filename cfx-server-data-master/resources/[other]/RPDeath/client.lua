@@ -108,11 +108,11 @@ Citizen.CreateThread(function()
 		table.insert(spawnPoints,newObject)
 	end
 
-	createSpawnPoint(-448, -448, -340, -329, 35.5, 0) -- Mount Zonah
+	--createSpawnPoint(-448, -448, -340, -329, 35.5, 0) -- Mount Zonah
 	createSpawnPoint(372, 375, -596, -594, 30.0, 0)   -- Pillbox Hill
-	createSpawnPoint(335, 340, -1400, -1390, 34.0, 0) -- Central Los Santos
-	createSpawnPoint(1850, 1854, 3700, 3704, 35.0, 0) -- Sandy Shores
-	createSpawnPoint(-247, -245, 6328, 6332, 33.5, 0) -- Paleto
+	--createSpawnPoint(335, 340, -1400, -1390, 34.0, 0) -- Central Los Santos
+	--createSpawnPoint(1850, 1854, 3700, 3704, 35.0, 0) -- Sandy Shores
+	--createSpawnPoint(-247, -245, 6328, 6332, 33.5, 0) -- Paleto
 	--createSpawnPoint(1152, 1156, -1525, -1521, 34.9, 0) -- St. Fiacre
 
 	while true do

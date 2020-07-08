@@ -4,7 +4,7 @@ Config.DrawDistance               = 100.0
 
 Config.Marker                     = { type = 1, x = 1.5, y = 1.5, z = 0.5, r = 102, g = 0, b = 102, a = 100, rotate = false }
 
-Config.ReviveReward               = 150  -- revive reward, set to 0 if you don't want it enabled
+Config.ReviveReward               = 800  -- revive reward, set to 0 if you don't want it enabled
 Config.AntiCombatLog              = true -- enable anti-combat logging?
 Config.LoadIpl                    = true -- disable if you're using fivem-ipl or other IPL loaders
 
@@ -13,17 +13,17 @@ Config.Locale                     = 'en'
 local second = 1000
 local minute = 60 * second
 
-Config.EarlyRespawnTimer          = 8 * minute  -- Time til respawn is available
-Config.BleedoutTimer              = 10 * minute -- Time til the player bleeds out
+Config.EarlyRespawnTimer          = 1 * minute  -- Time til respawn is available
+Config.BleedoutTimer              = 1 * minute -- Time til the player bleeds out
 
 Config.EnablePlayerManagement     = true
 
-Config.RemoveWeaponsAfterRPDeath  = false
-Config.RemoveCashAfterRPDeath     = false
-Config.RemoveItemsAfterRPDeath    = false
+Config.RemoveWeaponsAfterRPDeath  = true
+Config.RemoveCashAfterRPDeath     = true
+Config.RemoveItemsAfterRPDeath    = true
 
 -- Let the player pay for respawning early, only if he can afford it.
-Config.EarlyRespawnFine           = false
+Config.EarlyRespawnFine           = true
 Config.EarlyRespawnFineAmount     = 5000
 
 Config.RespawnPoint = { coords = vector3(352.79, -561.57, 28.79), heading = 162.79 }
@@ -180,11 +180,11 @@ Config.AuthorizedHelicopters = {
 	doctor = {},
 
 	chief_doctor = {
-		{ model = 'maverick', label = 'EMS Maverick', price = 1 }
+		{ model = 'aw139', label = 'aw139', price = 1 }
 	},
 
 	boss = {
-		{ model = 'maverick', label = 'EMS Maverick', price = 1 }
+		{ model = 'aw139', label = 'aw139', price = 1 }
 	}
 
 }
